@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./200.gif"/>
+  <img src="https://github.com/pagoru/pagoru/blob/master/200.gif?raw=true"/>
 </p>

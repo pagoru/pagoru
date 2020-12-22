@@ -6,7 +6,7 @@
   <p align="center">
   <img src="https://web.archive.org/web/20091022154110/http://www.geocities.com/xenomatrix7/codebar.gif"/>
     <img src="https://web.archive.org/web/20091022025758im_/http://www.geocities.com/nkaujhnubxiong/welcomeblue.gif"/>
-    <img src="https://web.archive.org/web/20051227120856/http://www.geocities.com/rebelz_5/WaveHabboGif.gif"/>
+    <img src="https://static.habbo-happy.net/img/articles/759330_dance1.gif"/>
   <img src="https://web.archive.org/web/20091022154110/http://www.geocities.com/xenomatrix7/codebar.gif"/>
   </p>
   <span style="color:yellow">Welcome to Pablo's website. My World Wide Web offical site.</span>
@@ -23,7 +23,7 @@
     
   <img src="https://web.archive.org/web/20091022154110/http://www.geocities.com/xenomatrix7/codebar.gif"/>
     <img src="https://web.archive.org/web/20091022040749/http://www.geocities.com/peterkorf/goodbye1.gif"/>
-    <img src="https://web.archive.org/web/20051227120856/http://www.geocities.com/rebelz_5/WaveHabboGif.gif"/>
+    <img src="https://static.habbo-happy.net/img/articles/759330_dance1.gif"/>
   <img src="https://web.archive.org/web/20091022154110/http://www.geocities.com/xenomatrix7/codebar.gif"/>
   </p>
   <img src="https://web.archive.org/web/20091026234108/http://au.geocities.com/anthony_yager/common/css.gif"/>

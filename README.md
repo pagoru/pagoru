@@ -1,20 +1,23 @@
 **👨‍🎨 About me**
 - My name is **Pablo** aka **pagoru**. 
-- Working as a Typescript developer at the highest bidder.
+- Working as a Typescript developer at [Aszendit](https://github.com/Aszendit).
 
 **👥 Social**
 - [Twitch](https://twitch.tv/avoidpixelDev) - My coding twitch channel.
 - [Linkedin](https://linkedin.com/in/pagoru) - My personal linkedin.
 
 **🎮 Games**
-- **voidpixel** - Masive Multiplayer Online Isometric Pixelart Game (WIP)
+- **voidpixel** - Masive Multiplayer Online Social Isometric Pixelart Game [MMOSIP] (WIP)
   - [voidpixel.net](https://voidpixel.net) - Offical website
   - [blog.voidpixel.net](https://blog.voidpixel.net) - Official blog website
 
-- **zombspital** - Jam Arcade Game (2 weeks).
+- **zombspital** - Jam Arcade Game (made in 2 weeks).
   - [play it](https://pagoru.itch.io/zombspital) 
   - [source](https://github.com/pagoru/Zombspital)
-  - [jam](https://itch.io/jam/dream-arcade-archive) 
+  - [jam](https://itch.io/jam/dream-arcade-archive)
+
+- **rent or bust** (WIP)
+  - [play it](https://pagoru.itch.io/rent-or-bust) 
 
 **💾  Open source**
 - **darkaqua**

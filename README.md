@@ -17,7 +17,8 @@
   - [jam](https://itch.io/jam/dream-arcade-archive)
 
 - **rent or bust** (WIP)
-  - [play it](https://pagoru.itch.io/rent-or-bust) 
+  - [play it (demo)](https://pagoru.itch.io/rent-or-bust-demo) 
+  - [buy it](https://pagoru.itch.io/rent-or-bust) 
 
 **💾  Open source**
 - **darkaqua**

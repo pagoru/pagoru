@@ -1,6 +1,6 @@
 **👨‍🎨 About me**
 - My name is **Pablo** aka **pagoru**. 
-- Working as a Typescript developer at [Aszendit](https://github.com/Aszendit).
+- Working as a FullStack Web and Mobile developer.
 
 **👥 Social**
 - [Twitch](https://twitch.tv/avoidpixelDev) - My coding twitch channel.

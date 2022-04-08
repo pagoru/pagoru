@@ -1,6 +1,6 @@
 **👨‍🎨 About me**
 - My name is **Pablo** aka **pagoru**. 
-- Working as a FrontEnd Tech Lead.
+- Working as a Senior FrontEnd Developer.
 
 **👥 Social**
 - [Twitch](https://twitch.tv/avoidpixelDev) - My coding twitch channel.

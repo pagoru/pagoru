@@ -16,10 +16,6 @@
   - [source](https://github.com/pagoru/Zombspital)
   - [jam](https://itch.io/jam/dream-arcade-archive)
 
-- **rent or bust** (WIP)
-  - [play it (demo)](https://pagoru.itch.io/rent-or-bust-demo) 
-  - [buy it](https://pagoru.itch.io/rent-or-bust) 
-
 **💾  Open source**
 - **darkaqua**
   - [pathfinding.ts](https://github.com/darkaqua/pathfinding.ts) - Pathfinding implementation on typescript.

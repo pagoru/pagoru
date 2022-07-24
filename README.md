@@ -7,7 +7,7 @@
 - [Linkedin](https://linkedin.com/in/pagoru) - My personal linkedin.
 
 **🎮 Games**
-- **voidpixel** - Masive Multiplayer Online Social Isometric Pixelart Game [MMOSIP] (WIP)
+- **voidpixel** - Isometric-Pixelart-Game-ish' (WIP)
   - [voidpixel.net](https://voidpixel.net) - Offical website
   - [blog.voidpixel.net](https://blog.voidpixel.net) - Official blog website
 

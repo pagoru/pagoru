@@ -1,9 +1,13 @@
 **👨‍🎨 About me**
 - My name is **Pablo** aka **pagoru**. 
-- Working as a Senior FrontEnd Developer.
+- Working as a Solo Game Developer.
 
 **👥 Social**
-- [Twitch](https://twitch.tv/avoidpixelDev) - My coding twitch channel.
+- [Twitch](https://twitch.tv/pagoruDev) - My coding twitch channel.
+- [Youtube](https://youtube.com/@pagoruDev) - My coding youtube channel.
+- [Twitter](https://twitter.com/pagoruDev)
+- [Patreon](https://patreon.com/pagoruDev)
+- [Discord](https://discord.com/invite/Xt9CCeJ)
 - [Linkedin](https://linkedin.com/in/pagoru) - My personal linkedin.
 
 **🎮 Games**

@@ -13,7 +13,7 @@
 **🎮 Games**
 - **voidpixel** - Isometric-Pixelart-Game-ish' (WIP)
   - [voidpixel.net](https://voidpixel.net) - Offical website
-  - [blog.voidpixel.net](https://blog.voidpixel.net) - Official blog website
+  - [voidpixel.net/blog](https://voidpixel.net/blog) - Official blog website
 
 - **zombspital** - Jam Arcade Game (made in 2 weeks).
   - [play it](https://pagoru.itch.io/zombspital) 

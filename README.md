@@ -19,6 +19,10 @@
   - [play it](https://pagoru.itch.io/zombspital) 
   - [source](https://github.com/pagoru/Zombspital)
   - [jam](https://itch.io/jam/dream-arcade-archive)
+  - 
+- **rent-or-bust** (WIP)
+  - [play it](https://pagoru.itch.io/rent-or-bust) 
+  - [source](https://github.com/pagoru/rent-or-bust)
 
 **💾  Open source**
 - **darkaqua**

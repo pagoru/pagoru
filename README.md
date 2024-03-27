@@ -7,7 +7,7 @@
 - [Youtube](https://youtube.com/@pagoruDev) - My coding youtube channel.
 - [Twitter](https://twitter.com/pagoruDev)
 - [Patreon](https://patreon.com/pagoruDev)
-- [Discord](https://discord.com/invite/Xt9CCeJ)
+- [Discord](http://discord.voidpixel.net)
 - [Linkedin](https://linkedin.com/in/pagoru) - My personal linkedin.
 
 **🎮 Games**

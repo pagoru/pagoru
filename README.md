@@ -1,12 +1,11 @@
 **👨‍🎨 About me**
 - My name is **Pablo** aka **pagoru**. 
-- Working as a Solo Game Developer.
+- Working as a Game Developer and as a Front End.
 
 **👥 Social**
 - [Twitch](https://twitch.tv/pagoruDev) - My coding twitch channel.
 - [Youtube](https://youtube.com/@pagoruDev) - My coding youtube channel.
 - [Twitter](https://twitter.com/pagoruDev)
-- [Patreon](https://patreon.com/pagoruDev)
 - [Discord](http://discord.voidpixel.net)
 - [Linkedin](https://linkedin.com/in/pagoru) - My personal linkedin.
 
@@ -14,7 +13,11 @@
 - **voidpixel** - Isometric-Pixelart-Game-ish' (WIP)
   - [voidpixel.net](https://voidpixel.net) - Offical website
 
-- **zombspital** - Jam Arcade Game (made in 2 weeks).
+- **openhotel** - Open Source Social Game
+  - [play it](https://client.openhotel.club) 
+  - [source](https://github.com/openhotel)
+
+- **zombspital** - Jam Arcade Game (made in 2 weeks)
   - [play it](https://pagoru.itch.io/zombspital) 
   - [source](https://github.com/pagoru/Zombspital)
   - [jam](https://itch.io/jam/dream-arcade-archive)
@@ -23,10 +26,6 @@
   - [play it](https://pagoru.itch.io/rent-or-bust) 
   - [source](https://github.com/pagoru/rent-or-bust)
 
-**💾  Open source**
-- **darkaqua**
-  - [pathfinding.ts](https://github.com/darkaqua/pathfinding.ts) - Pathfinding implementation on typescript.
-  - [native-darker-engine-template](https://github.com/darkaqua/native-darker-engine-template) - Lightweight functional template implementation of the darker-engine with pixi.js on react native with expo
-  - [darker-engine-template](https://github.com/darkaqua/darker-engine-template) - Lightweight functional template implementation of the darker-engine with pixi.js
-  - [darker-engine](https://github.com/darkaqua/darker-engine) - Lightweight functional library implementation of the Entity-Component-System pattern with typescript.
-  - [dark-engine](https://github.com/darkaqua/dark-engine) - 2d Game Framework for Web using ECS pattern with pixi.js, redux, redux-saga and webpack.
+- **snake** (made in 1 day)
+  - [play it](https://pagoru.itch.io/tulip-snake) 
+  - [source](https://github.com/tulipjs/snake)

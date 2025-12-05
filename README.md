@@ -1,13 +1,12 @@
 **👨‍🎨 About me**
 - My name is **Pablo** aka **pagoru**. 
-- Working as a Game Developer and as a Front End.
+- Game Developer
 
 **👥 Social**
 - [Twitch](https://twitch.tv/pagoruDev) - My coding twitch channel.
 - [Youtube](https://youtube.com/@pagoruDev) - My coding youtube channel.
-- [Twitter](https://twitter.com/pagoruDev)
+- [Bsky](https://bsky.app/profile/pagoru.es)
 - [Discord](http://discord.voidpixel.net)
-- [Linkedin](https://linkedin.com/in/pagoru) - My personal linkedin.
 
 **🎮 Games**
 - **voidpixel** - Isometric-Pixelart-Game-ish' (WIP)
